@@ -1,0 +1,11 @@
+9a35adfb53953779461cd8ecf308368c *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+dd026388cb616cac08ee158b3c98132e *R/SolveRationalMatrixEquaton.R
+b0200d27a6f4d987b57a48a0a07ce7b9 *build/vignette.rds
+e3274bf0e46c1b203d467337f02a387b *inst/doc/SolveRationalMatrixEquation.R
+150b74939530820a7fe08b890596ba0f *inst/doc/SolveRationalMatrixEquation.Rmd
+aafef6e096b163b548b4f55b349b376f *inst/doc/SolveRationalMatrixEquation.html
+3997a344c116d140b53c9e188b9c85ea *man/LQdecompose.Rd
+754d9e87344d8550c3b560e359dcbfb0 *man/QRdecompose.Rd
+ca6de1cca0fcc9029be5d4ee8034522b *man/sol.rationalmatrix.euqation.Rd
+150b74939530820a7fe08b890596ba0f *vignettes/SolveRationalMatrixEquation.Rmd
